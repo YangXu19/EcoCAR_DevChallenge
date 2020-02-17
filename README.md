@@ -13,6 +13,7 @@ During inclement weather conditions like when it is raining or during a snowstor
 - LEDs (red, yellow, green) 
 - Motor driver 
 - Brushless DC motors
+- Piezo buzzer
 
 
   
